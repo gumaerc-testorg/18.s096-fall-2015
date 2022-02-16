@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 42927738-6e3e-c905-5842-dd0043c85563
 ---
@@ -54,20 +56,6 @@ None
 ### Offered
 
 Typically offered during the fall semester and January Independent Activities Period (IAP)
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Five rows of narrow grey tables, 50 chairs, and sliding chalkboards.]({{< resource_file 31f85955-4fa6-20fa-9037-61a3d73b155b >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    18.S096 is taught in a classroom like this one with rows of seats and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
