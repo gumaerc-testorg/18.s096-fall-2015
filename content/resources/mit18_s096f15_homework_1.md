@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f7bd282c-2687-3754-a823-525370f7fc4a
 resourcetype: Document
 title: Topics in Mathematics of Data Science Assignment 1
 uid: 001f7340-ddb8-1376-6def-0f2e64d2c8a7

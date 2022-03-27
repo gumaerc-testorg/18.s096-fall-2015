@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9b04519b-00d2-3637-c198-2b90a122eca1
 resourcetype: Document
 title: Topics in Mathematics of Data Science Lecture Notes
 uid: 5f0f7205-d1cf-274e-80d7-7345a7edbf2a
