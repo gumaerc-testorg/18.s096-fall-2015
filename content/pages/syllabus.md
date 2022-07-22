@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, topics covered, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4d8650bc-141b-e0f7-94c5-5b5f51231ff2
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Working knowledge of [_18.06SC Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/) and [_18.05 Introduction to Probability and Statistics_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/) is required. Some familiarity with the basics of optimization and algorithms is also recommended.
+Working knowledge of [_18.06SC Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011) and [_18.05 Introduction to Probability and Statistics_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014) is required. Some familiarity with the basics of optimization and algorithms is also recommended.
 
 Description
 -----------

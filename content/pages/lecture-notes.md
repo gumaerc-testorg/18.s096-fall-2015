@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and the lecture notes
+  used for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9b04519b-00d2-3637-c198-2b90a122eca1
 ---
@@ -22,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Overview and Two Open Problems (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses1)
+{{% resource_link 594e3ae9-1cc8-e865-f25d-07dcbd2dd460 "Overview and Two Open Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ TOPICS
 2-4
 {{< tdclose >}}
 {{< tdopen >}}
-[Principal Component Analysis in High Dimensions and the Spike Model (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses2_4)
+{{% resource_link 4c9fa7ce-658a-6317-4f56-2fdf44b55626 "Principal Component Analysis in High Dimensions and the Spike Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ TOPICS
 5-7
 {{< tdclose >}}
 {{< tdopen >}}
-[Graphs, Diffusion Maps, and Semi-supervised Learning (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses5_7)
+{{% resource_link 96c4c2d9-f8b7-2433-633a-f7762f0c742d "Graphs, Diffusion Maps, and Semi-supervised Learning (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ TOPICS
 8-11
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Clustering and Cheeger's Inequality (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses8_11)
+{{% resource_link 251ccb47-d300-3505-f06d-27c8f91f831d "Spectral Clustering and Cheeger's Inequality (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ TOPICS
 12-14
 {{< tdclose >}}
 {{< tdopen >}}
-[Concentration Inequalities, Scalar and Matrix Versions (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses12_14)
+{{% resource_link 87db5678-b040-5c10-87b0-e85181b64c1a "Concentration Inequalities, Scalar and Matrix Versions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ TOPICS
 15-16
 {{< tdclose >}}
 {{< tdopen >}}
-[Johnson-Lindenstrauss Lemma and Gordon's Theorem (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses15_16)
+{{% resource_link f9261308-512f-6b90-e284-599f94055bb4 "Johnson-Lindenstrauss Lemma and Gordon's Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Local Convergence of Graphs and Enumeration of Spanning Trees (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses17) (Courtesy of Mustazee Rahman. Used with permission.)
+{{% resource_link 55ff9f23-be31-3f3b-eefe-692dda95aff9 "Local Convergence of Graphs and Enumeration of Spanning Trees (PDF)" %}} (Courtesy of Mustazee Rahman. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ TOPICS
 18-19
 {{< tdclose >}}
 {{< tdopen >}}
-[Compressed Sensing and Sparse Recovery (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses18_19)
+{{% resource_link e819e378-cf61-f250-69e3-d38d30e0d520 "Compressed Sensing and Sparse Recovery (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Group Testing and Error-Correcting Codes (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses20)
+{{% resource_link eeddd14f-9961-8988-d18b-47ef4d72e8c6 "Group Testing and Error-Correcting Codes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Approximation Algorithms and Max-Cut (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses21)
+{{% resource_link 42b684e2-e69f-b3ba-cb04-c5e39090573c "Approximation Algorithms and Max-Cut (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Community Detection and the Stochastic Block Model (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses22)
+{{% resource_link 2a9793af-9d85-cf5a-e0b0-531bbb916d33 "Community Detection and the Stochastic Block Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,11 +126,11 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Synchronization Problems and Alignment (PDF)]({{< baseurl >}}/resources/mit18_s096f15_ses23)
+{{% resource_link e8d7f4c6-f60c-b597-1062-d8a99c527956 "Synchronization Problems and Alignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-Most of the lecture notes were consolidated into a monograph: [Ten Lectures and Forty Two Open Problems in the Mathematics of Data Science (PDF - 2.7MB)]({{< baseurl >}}/resources/mit18_s096f15_tenlec)
+Most of the lecture notes were consolidated into a monograph: {{% resource_link 5f0f7205-d1cf-274e-80d7-7345a7edbf2a "Ten Lectures and Forty Two Open Problems in the Mathematics of Data Science (PDF - 2.7MB)" %}}
