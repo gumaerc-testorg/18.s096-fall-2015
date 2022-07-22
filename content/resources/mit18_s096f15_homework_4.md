@@ -5,6 +5,7 @@ file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/0652e0df1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Topics in Mathematics of Data Science Assignment 4
 uid: 0652e0df-1a00-ac93-1999-21e375cab387
 ---
 This file contains information regarding problem set 4.
-

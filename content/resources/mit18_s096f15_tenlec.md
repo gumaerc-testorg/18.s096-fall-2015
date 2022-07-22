@@ -6,6 +6,7 @@ file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/5f0f7205d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Topics in Mathematics of Data Science Lecture Notes
 uid: 5f0f7205-d1cf-274e-80d7-7345a7edbf2a
 ---
 This is a file that contains information regarding topics in mathematics of data science lecture notes.
-

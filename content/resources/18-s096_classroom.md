@@ -9,6 +9,7 @@ image_metadata:
   credit: MIT
   image-alt: Five rows of narrow grey tables, 50 chairs, and sliding chalkboards.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: 18-S096_classroom
 uid: 31f85955-4fa6-20fa-9037-61a3d73b155b
 ---
 18-S096 classroom. Five rows of narrow grey tables, 50 chairs, and sliding chalkboards.
-
