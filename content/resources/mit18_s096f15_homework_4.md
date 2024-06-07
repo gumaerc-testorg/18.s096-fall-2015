@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 4.
 file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/0652e0df1a00ac93199921e375cab387_MIT18_S096F15_Homework_4.pdf
+file_size: 210550
 file_type: application/pdf
 learning_resource_types:
 - Assignments

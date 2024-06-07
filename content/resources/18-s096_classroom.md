@@ -3,6 +3,7 @@ content_type: resource
 description: 18-S096 classroom. Five rows of narrow grey tables, 50 chairs, and sliding
   chalkboards.
 file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/31f859554fa620fa903761a3d73b155b_18-S096_classroom.jpg
+file_size: 44240
 file_type: image/jpeg
 image_metadata:
   caption: ''
