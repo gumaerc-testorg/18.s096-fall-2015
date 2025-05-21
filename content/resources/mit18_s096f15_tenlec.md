@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding topics in mathematics
   of data science lecture notes.
-file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/5f0f7205d1cf274e80d77345a7edbf2a_MIT18_S096F15_TenLec.pdf
+file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/5f0f7205d1cf274e80d77345a7edbf2a_MIT18_S096F15_TenLec.pdf
 file_size: 2822945
 file_type: application/pdf
 learning_resource_types:
