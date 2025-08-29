@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 1.
-file: /courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/001f7340ddb813766def0f2e64d2c8a7_MIT18_S096F15_Homework_1.pdf
+file: /ol-ocw-studio-app/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/001f7340ddb813766def0f2e64d2c8a7_MIT18_S096F15_Homework_1.pdf
 file_size: 373836
 file_type: application/pdf
 learning_resource_types:
