@@ -22,7 +22,7 @@ Open Problems
 
 {{% resource_link a9963e8f-7bd9-c10b-4d48-df8115f63116 "1.2: Monotonicity of Eigenvalues (PDF)" %}}
 
-{{% resource_link f45f0a31-d53a-81f7-354e-4cfe79e6c4d0 "1.3: Cut SDP Spike Model Conjecture (PDF)" %}}—**Solved** [here](http://arxiv.org/abs/1504.05910)
+{{% resource_link f45f0a31-d53a-81f7-354e-4cfe79e6c4d0 "1.3: Cut SDP Spike Model Conjecture (PDF)" %}}—**Solved** {{% resource_link "9e0b5214-aa3b-4a72-815d-2653afaea1e6" "here" %}}
 
 {{% resource_link ccf9cc9c-b3bb-8fba-9ead-00464c5dbace "2.1: Ramsey Numbers (PDF)" %}}
 
